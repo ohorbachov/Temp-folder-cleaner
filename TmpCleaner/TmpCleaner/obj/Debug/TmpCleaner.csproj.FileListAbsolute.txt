@@ -1,0 +1,14 @@
+D:\Programming\TmpCleaner\TmpCleaner\bin\Debug\TmpCleaner.exe.config
+D:\Programming\TmpCleaner\TmpCleaner\bin\Debug\TmpCleaner.exe
+D:\Programming\TmpCleaner\TmpCleaner\bin\Debug\TmpCleaner.pdb
+D:\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.csprojAssemblyReference.cache
+D:\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.csproj.CoreCompileInputs.cache
+D:\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.exe
+D:\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.pdb
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\bin\Debug\TmpCleaner.exe.config
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\bin\Debug\TmpCleaner.exe
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\bin\Debug\TmpCleaner.pdb
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.csprojAssemblyReference.cache
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.csproj.CoreCompileInputs.cache
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.exe
+E:\Oleg\Programming\TmpCleaner\TmpCleaner\obj\Debug\TmpCleaner.pdb
